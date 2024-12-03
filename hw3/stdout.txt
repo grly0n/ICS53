@@ -1,0 +1,3 @@
+<53shell>$ echo "Mario likes pipes" | python3 rsrc/pythonScripts/io_combined.py
+<53shell>$ exit
+STDOUT: Mario likes pipes

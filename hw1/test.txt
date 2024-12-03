@@ -1,0 +1,8 @@
+
+    This line has leading whitespace
+This line has trailing whitespace   
+This line has none
+è
+Total count is 6
+ Last line
+THIS LINE SHOULD NOT BE PRINTED è
