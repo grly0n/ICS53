@@ -1,0 +1,12 @@
+CONNECTED petr
+petr PLIST
+petr VOTE 1 1 2
+petr STATS 2
+petr PLIST
+petr PLIST
+petr VOTE 0 0 3
+petr VOTE 2 1 7
+petr VOTE 3 1 15
+petr PLIST
+petr STATS 15
+petr LOGOUT
