@@ -1,4 +1,6 @@
-This repository stores all class projects from ICS53: Principles in System Design
+This repository stores all class projects from ICS53: Principles in System Design, taken Fall Quarter 2024.
+
+**THIS REPOSITORY IS FOR PORTFOLIO PURPOSES ONLY. CODE FOUND HERE IS NOT TO BE USED FOR ICS53 ASSIGNMENTS.**
 
 ## HW1: 53wc
 Practice with learning core C syntax and functionality, with an emphasis on positional command line arguments, standard library functions, and file I/O.
